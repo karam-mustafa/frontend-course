@@ -7,17 +7,9 @@ in this session we took essentials of javascript with calculator example and her
 - Also, we learned new css attributes:
   - text-indent
   - height and width with max-content
-- Install git program
-- Create GitHub accounts
-- Git commands:
-  - git init
-  - git remote add origin "github repo link"
-  - git config --global user.name "your name here"
-  - git config --global user.email "your email here"
-  - git branch -M main
-  - git add .
-  - git commit -m "type any message here"
-  - git push origin main
+- JavaScript concepts that we covered
+
+
 - Other resources to learn from:
     - [HTML](https://www.w3schools.com/html/default.asp)
     - [CSS](https://www.w3schools.com/css/default.asp)
