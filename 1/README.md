@@ -27,3 +27,4 @@ This is the first and second session, we applied here these concepts:
   - font-family
   - width
   - height
+  - text-align
