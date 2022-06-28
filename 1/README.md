@@ -28,3 +28,4 @@ This is the first and second session, we applied here these concepts:
   - width
   - height
   - text-align
+  - border
