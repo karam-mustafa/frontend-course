@@ -29,3 +29,4 @@ This is the first and second session, we applied here these concepts:
   - height
   - text-align
   - border
+  - font-weight
