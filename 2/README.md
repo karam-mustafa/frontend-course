@@ -9,6 +9,7 @@ This is the first and second session, we applied here these concepts:
 - Css syntax with these concepts:
     - style tag
     - display types:
+      - flex
 - Install git program
 - Other resources to learn from:
     - [HTML](https://www.w3schools.com/html/default.asp)
