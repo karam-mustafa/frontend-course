@@ -12,6 +12,7 @@ This is the first and second session, we applied here these concepts:
       - flex
       - inline-block
       - block
+      - hidden
 - Install git program
 - Other resources to learn from:
     - [HTML](https://www.w3schools.com/html/default.asp)
