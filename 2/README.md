@@ -15,7 +15,7 @@ This is the first and second session, we applied here these concepts:
       - hidden
       - grid
     - justify-content
-    - 
+    - align-items
 - Install git program
 - Other resources to learn from:
     - [HTML](https://www.w3schools.com/html/default.asp)
