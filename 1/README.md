@@ -25,3 +25,4 @@ This is the first and second session, we applied here these concepts:
   - background-color
   - colors
   - font-family
+  - width
