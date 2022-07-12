@@ -4,18 +4,8 @@ in this session we took essentials of javascript with calculator example and her
     - select input tag
     - option
 
-- Also, we learned how to work with css in separate file
-- Css syntax with these concepts:
-    - '*'
-    - display types:
-      - flex
-      - inline-block
-      - block
-      - hidden
-      - grid
-    - justify-content
-    - align-items
-    - outline
+- Also, we learned new css attributes:
+  - text-indent
 - Install git program
 - Create GitHub accounts
 - Git commands:
