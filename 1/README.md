@@ -26,3 +26,4 @@ This is the first and second session, we applied here these concepts:
   - colors
   - font-family
   - width
+  - height
