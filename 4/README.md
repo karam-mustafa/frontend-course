@@ -8,6 +8,7 @@ in this session we took essentials of javascript with calculator example and her
   - text-indent
   - height and width with max-content
 - JavaScript concepts that we covered
+  - explain the usage of JavaScript
   - variable types
 
 - Other resources to learn from:
