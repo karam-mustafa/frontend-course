@@ -31,3 +31,4 @@ This is the first and second session, we applied here these concepts:
   - border
   - font-weight
   - transition
+- Install git program
