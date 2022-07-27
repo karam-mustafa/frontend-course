@@ -33,3 +33,4 @@ This is the first and second session, we applied here these concepts:
   - font-weight
   - transition
 - Install git program
+- Other resources to learn from:
