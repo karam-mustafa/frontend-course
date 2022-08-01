@@ -1,0 +1,24 @@
+This is the first and second session, we applied here these concepts:
+- HTML syntax with these tags:
+    - b
+- Css syntax with these concepts:
+    - style tag
+    - selectors:
+        - id
+        - class
+        - self tag selector
+    - margin
+    - padding
+    - background-color
+    - colors
+    - font-family
+    - width
+    - height
+    - text-align
+    - border
+    - font-weight
+    - transition
+- Install git program
+- Other resources to learn from:
+    - [HTML](https://www.w3schools.com/html/default.asp)
+    - [CSS](https://www.w3schools.com/css/default.asp)
