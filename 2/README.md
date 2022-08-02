@@ -1,6 +1,7 @@
 This is the first and second session, we applied here these concepts:
 - HTML syntax with these tags:
     - b
+    - form
 - Css syntax with these concepts:
     - style tag
     - selectors:
