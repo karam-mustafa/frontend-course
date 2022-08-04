@@ -3,6 +3,7 @@ This is the first and second session, we applied here these concepts:
     - b
     - form
     - inputs
+    - charset attribute
 - Css syntax with these concepts:
     - style tag
     - selectors:
