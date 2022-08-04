@@ -4,6 +4,7 @@ This is the first and second session, we applied here these concepts:
     - form
     - inputs
     - charset attribute
+    - name="viewport"
 - Css syntax with these concepts:
     - style tag
     - selectors:
