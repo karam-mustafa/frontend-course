@@ -5,6 +5,7 @@ This is the first and second session, we applied here these concepts:
     - inputs
     - charset attribute
     - name="viewport"
+- Also, we learned how to work with css in separate file
 - Css syntax with these concepts:
     - style tag
     - selectors:
