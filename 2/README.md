@@ -22,6 +22,7 @@ This is the first and second session, we applied here these concepts:
 - Git commands:
   - git init
   - git remote add origin "github repo link"
+  - git config --global user.name "your name here"
 - Other resources to learn from:
     - [HTML](https://www.w3schools.com/html/default.asp)
     - [CSS](https://www.w3schools.com/css/default.asp)
