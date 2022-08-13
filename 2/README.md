@@ -25,6 +25,7 @@ This is the first and second session, we applied here these concepts:
   - git config --global user.name "your name here"
   - git config --global user.email "your email here"
   - git add .
+  - git commit -m "type any message here"
 - Other resources to learn from:
     - [HTML](https://www.w3schools.com/html/default.asp)
     - [CSS](https://www.w3schools.com/css/default.asp)
