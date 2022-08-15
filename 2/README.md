@@ -24,6 +24,7 @@ This is the first and second session, we applied here these concepts:
   - git remote add origin "github repo link"
   - git config --global user.name "your name here"
   - git config --global user.email "your email here"
+  - git branch -M main
   - git add .
   - git commit -m "type any message here"
   - git push origin main
