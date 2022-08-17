@@ -1,0 +1,10 @@
+body{
+    height: 2000px;
+}
+
+.slide, .slide .carousel-item{
+    height: calc(100vh - 40px);
+}
+.slide .carousel-item img{
+    height: 100%;
+}

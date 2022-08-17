@@ -1,0 +1,33 @@
+This is the first and second session, we applied here these concepts:
+- HTML syntax with these tags:
+    - b
+    - form
+    - inputs
+    - charset attribute
+    - name="viewport"
+- Also, we learned how to work with css in separate file
+- Css syntax with these concepts:
+    - '*'
+    - display types:
+      - flex
+      - inline-block
+      - block
+      - hidden
+      - grid
+    - justify-content
+    - align-items
+    - outline
+- Install git program
+- Create GitHub accounts
+- Git commands:
+  - git init
+  - git remote add origin "github repo link"
+  - git config --global user.name "your name here"
+  - git config --global user.email "your email here"
+  - git branch -M main
+  - git add .
+  - git commit -m "type any message here"
+  - git push origin main
+- Other resources to learn from:
+    - [HTML](https://www.w3schools.com/html/default.asp)
+    - [CSS](https://www.w3schools.com/css/default.asp)
