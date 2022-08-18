@@ -1,6 +1,6 @@
-This is the first and second session, we applied here these concepts:
+in this session we took essentials of javascript with calculator example and here are the concepts that we covered
 - HTML syntax with these tags:
-    - b
+    - script tag
     - form
     - inputs
     - charset attribute
