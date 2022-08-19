@@ -1,10 +1,7 @@
 in this session we took essentials of javascript with calculator example and here are the concepts that we covered
 - HTML syntax with these tags:
     - script tag
-    - form
-    - inputs
-    - charset attribute
-    - name="viewport"
+    - select input tag
 - Also, we learned how to work with css in separate file
 - Css syntax with these concepts:
     - '*'
