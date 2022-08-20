@@ -2,6 +2,8 @@ in this session we took essentials of javascript with calculator example and her
 - HTML syntax with these tags:
     - script tag
     - select input tag
+    - option
+
 - Also, we learned how to work with css in separate file
 - Css syntax with these concepts:
     - '*'
