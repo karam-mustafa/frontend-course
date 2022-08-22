@@ -11,6 +11,7 @@ in this session we took essentials of javascript with calculator example and her
   - explanation of javascript usage
   - explanation of DOM
   - variable types
+  - data types
 
 - Other resources to learn from:
     - [HTML](https://www.w3schools.com/html/default.asp)
