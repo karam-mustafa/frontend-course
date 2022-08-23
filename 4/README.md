@@ -12,6 +12,7 @@ in this session we took essentials of javascript with calculator example and her
   - explanation of DOM
   - variable types
   - data types
+    - strings
 
 - Other resources to learn from:
     - [HTML](https://www.w3schools.com/html/default.asp)
