@@ -13,6 +13,7 @@ in this session we took essentials of javascript with calculator example and her
   - variable types
   - data types
     - strings
+    - numbers
 
 - Other resources to learn from:
     - [HTML](https://www.w3schools.com/html/default.asp)
