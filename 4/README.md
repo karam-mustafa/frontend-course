@@ -14,6 +14,7 @@ in this session we took essentials of javascript with calculator example and her
   - data types
     - strings
     - numbers
+    - arrays
 
 - Other resources to learn from:
     - [HTML](https://www.w3schools.com/html/default.asp)
