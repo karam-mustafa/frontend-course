@@ -18,7 +18,8 @@ in this session we took essentials of javascript with calculator example and her
     - objects
     - boolean
   - document
-  - querySelector & querySelectorAll 
+  - querySelector & querySelectorAll
+  - getElementsById && getElementsByClassName
 
 - Other resources to learn from:
     - [HTML](https://www.w3schools.com/html/default.asp)
