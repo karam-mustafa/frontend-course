@@ -20,6 +20,7 @@ in this session we took essentials of javascript with calculator example and her
   - document
   - querySelector & querySelectorAll
   - getElementsById && getElementsByClassName
+  - event listeners
 
 - Other resources to learn from:
     - [HTML](https://www.w3schools.com/html/default.asp)
