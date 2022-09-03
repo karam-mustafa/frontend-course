@@ -22,6 +22,7 @@ in this session we took essentials of javascript with calculator example and her
   - getElementsById && getElementsByClassName
   - event listeners
   - eval function
+  - innerHTML
 
 - Other resources to learn from:
     - [HTML](https://www.w3schools.com/html/default.asp)
