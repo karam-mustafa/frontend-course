@@ -5,3 +5,4 @@ This session is contains two parts:
 #Bootstrap essentials:
 - what is the benefit of using bootstrap
 - what are the main features that boostrap provides
+- Boostrap navs
