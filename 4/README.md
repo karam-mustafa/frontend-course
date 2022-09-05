@@ -25,5 +25,5 @@ in this session we took essentials of javascript with calculator example and her
   - innerHTML
 
 - Other resources to learn from:
-    - [HTML](https://www.w3schools.com/html/default.asp)
-    - [CSS](https://www.w3schools.com/css/default.asp)
+    - [HTML Select](https://www.w3schools.com/tags/tag_select.asp)
+    - [JavaScript](https://www.w3schools.com/css/default.asp)
