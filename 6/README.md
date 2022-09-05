@@ -7,3 +7,4 @@ This session is contains two parts:
 - what are the main features that boostrap provides
 - Boostrap navs
 - Boostrap backgrounds colors
+- Boostrap container
