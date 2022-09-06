@@ -8,3 +8,4 @@ This session is contains two parts:
 - Boostrap navs
 - Boostrap backgrounds colors
 - Boostrap container
+- Boostrap rows
