@@ -10,3 +10,4 @@ This session is contains two parts:
 - Boostrap container
 - Boostrap rows
 - Boostrap columns and responsive & grid system
+- Boostrap cards
