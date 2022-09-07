@@ -3,7 +3,6 @@ in this session we took essentials of javascript with calculator example and her
     - script tag
     - select input tag
     - option
-
 - Also, we learned new css attributes:
   - text-indent
   - height and width with max-content
