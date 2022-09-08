@@ -11,3 +11,4 @@ This session is contains two parts:
 - Boostrap rows
 - Boostrap columns and responsive & grid system
 - Boostrap cards
+- Boostrap carousel
