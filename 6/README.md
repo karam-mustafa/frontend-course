@@ -12,3 +12,6 @@ This session is contains two parts:
 - Boostrap columns and responsive & grid system
 - Boostrap cards
 - Boostrap carousel
+
+
+Resources to learn bootstrap from the official docs [here](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
