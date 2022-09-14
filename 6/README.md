@@ -2,7 +2,9 @@ This session is contains two parts:
 - First part is an example of how we can generate image cards with javascript
 - Second part is about Bootstrap essentials
 
-#
+# Generate image cards with javascript
+- we have taken these concepts:
+  - example for arrays and objects
 #Bootstrap essentials:
 - what is the benefit of using bootstrap
 - what are the main features that boostrap provides
