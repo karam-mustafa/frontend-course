@@ -6,6 +6,7 @@ This session is contains two parts:
 - we have taken these concepts:
   - example for arrays and objects
   - loops
+  - createElement
 #Bootstrap essentials:
 - what is the benefit of using bootstrap
 - what are the main features that boostrap provides
