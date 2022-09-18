@@ -8,6 +8,7 @@ This session is contains two parts:
   - loops
   - createElement
   - add class to classList
+  - add element to parent
 #Bootstrap essentials:
 - what is the benefit of using bootstrap
 - what are the main features that boostrap provides
