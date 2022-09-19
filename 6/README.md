@@ -9,6 +9,7 @@ This session is contains two parts:
   - createElement
   - add class to classList
   - add element to parent
+  - render html element while adding
 #Bootstrap essentials:
 - what is the benefit of using bootstrap
 - what are the main features that boostrap provides
