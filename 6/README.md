@@ -10,6 +10,7 @@ This session is contains two parts:
   - add class to classList
   - add element to parent
   - render html element while adding
+  - use font awesome
 #Bootstrap essentials:
 - what is the benefit of using bootstrap
 - what are the main features that boostrap provides
