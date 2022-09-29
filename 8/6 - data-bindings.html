@@ -9,6 +9,7 @@
     v-on:mouseout="changeColorToGray"
     >test</div>
 </div>
+
 <script>
     let vueObject = new Vue({
         el: '#databinding',
@@ -28,7 +29,7 @@
                 this.styleObj.backgroundColor = 'blue';
             },
             changeColorToGray(){
-                this.styleObj.backgroundColor = 'red'
+                this.styleObj.backgroundColor = 'gray'
             }
         },
         
