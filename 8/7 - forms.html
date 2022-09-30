@@ -4,7 +4,7 @@
 
 <body>
 
-    <div id="databinding">
+    <div id="app">
         <h3> First number</h3>
         <input type="number" v-model="number1">
         <hr>
@@ -21,8 +21,8 @@
         <h3>result: <span>{{result}}</span></h3>
     </div>
     <script>
-        let vueObject = new Vue({
-            el: '#databinding',
+         new Vue({
+            el: '#app',
             data: {
                 number1: 0,
                 number2: 0,
