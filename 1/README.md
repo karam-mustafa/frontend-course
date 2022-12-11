@@ -1,0 +1,27 @@
+This is the first and second session, we applied here these concepts:
+- HTML syntax with these tags:
+  - html
+  - head
+  - link
+  - meta
+  - title
+  - style
+  - body
+  - footer
+  - div
+  - h1
+  - span
+  - p
+  - button
+  - tag attributes
+- Css syntax with these concepts:
+  - style tag
+  - selectors:
+    - id
+    - class
+    - self tag selector
+  - margin
+  - padding
+  - background-color
+  - colors
+  - font-family
