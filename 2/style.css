@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #1abc9c;
+}
+.main{
+    width: 70vw;
+    height: 400px;
+    background-color: white;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 30px;
+}
+.main .form form input{
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    border: 0px;
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
+.main .form form input:focus {
+    outline: 0;
+}
+.main .form form button{
+    width: 80%;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    background-color: #53CACE;
+    border: 0;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.form , .description {
+    width: 48%;
+    padding: 20px;
+}
