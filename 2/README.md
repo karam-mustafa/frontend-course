@@ -7,7 +7,7 @@ This is the first and second session, we applied here these concepts:
     - name="viewport"
 - Also, we learned how to work with css in separate file
 - Css syntax with these concepts:
-    - *
+    - '*'
     - display types:
       - flex
       - inline-block
