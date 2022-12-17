@@ -2,24 +2,31 @@
     --main-color: rgba(16, 7, 7, 1) 
 }
 
-* {_
+* {
     padding: 0;
     margin: 0;
 }
 
 body {
     font-family: Verdana, sans-serif;
-    overflow-x: hidden
+    overflow-x: hidden;
+    height: 2000px;
+}
+.container {
+    padding: 10px 30px;
 }
 .navbar{
-width: 100%;
-display: flex;
-justify-content: space-between;
-align-items: center;
-background-color: white;
-padding: 20px;
-font-size: 25px;
-letter-spacing: 3px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    padding: 20px;
+    font-size: 25px;
+    letter-spacing: 3px;
+    position: fixed;
+    border: 1px solid gray;
+    z-index: 1;
 }
 .navbar .title{
     font-size: 30px;
@@ -54,4 +61,36 @@ letter-spacing: 3px;
     background-color: var(--main-color);
     opacity: 0.6;
     padding: 10px;
+}
+.title-area h3{
+    margin: 10px 0;
+    color: var(--main-color);
+}
+.title-area hr {
+    background-color: rgb(195, 195, 195);
+}
+
+
+
+.position-relative {
+    position: relative;
+}
+.row .img1{
+    width: 48%;
+}
+.row img{
+    width: 100%;
+}
+.flex-between {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.card-text{
+    padding: 20px;
+    background-color: black;
+    width: 100px;
+    position: absolute;
+    top: 0;
+    color: white;
 }
