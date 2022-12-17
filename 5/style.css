@@ -1,0 +1,40 @@
+:root {
+    --main-color: rgba(16, 7, 7, 1) 
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+    overflow-x: hidden
+}
+.navbar{
+width: 100%;
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: rgb(235, 235, 235);
+padding: 20px;
+font-size: 25px;
+letter-spacing: 3px;
+}
+.navbar .title{
+    font-size: 30px;
+    color: var(--main-color);
+}
+.navbar .links{
+    margin-right: 40px;
+}
+.navbar .links a {
+    padding: 20px;
+    text-decoration: none;
+    color: var(--main-color);
+    transition: 0.5s all;
+}
+.navbar .links a:hover {
+    background-color: gray;
+    color: white;
+}
