@@ -2,7 +2,7 @@
     --main-color: rgba(16, 7, 7, 1) 
 }
 
-* {
+* {_
     padding: 0;
     margin: 0;
 }
@@ -16,7 +16,7 @@ width: 100%;
 display: flex;
 justify-content: space-between;
 align-items: center;
-background-color: rgb(235, 235, 235);
+background-color: white;
 padding: 20px;
 font-size: 25px;
 letter-spacing: 3px;
@@ -37,4 +37,21 @@ letter-spacing: 3px;
 .navbar .links a:hover {
     background-color: gray;
     color: white;
+}
+
+.header{
+    background: url('./images/architect.jpg');
+    height: calc(100vh - 50px);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: white;
+}
+
+.header .title b {
+    background-color: var(--main-color);
+    opacity: 0.6;
+    padding: 10px;
 }
