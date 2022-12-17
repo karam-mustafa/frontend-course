@@ -10,7 +10,6 @@
 body {
     font-family: Verdana, sans-serif;
     overflow-x: hidden;
-    height: 2000px;
 }
 .container {
     padding: 10px 30px;
@@ -131,4 +130,30 @@ body {
 .col button:hover{
     background-color: rgb(104, 104, 104);
     color: white;
+}
+
+.form-area input, .form-area textarea{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.form-area button{
+    padding: 10px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+}
+footer{
+    padding: 20px;
+    height: 50px;
+    width: 100%;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+.yellow {
+    color: yellow;
 }
