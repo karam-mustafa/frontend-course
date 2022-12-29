@@ -1,0 +1,13 @@
+:root {
+    --main-color: rgba(23, 26, 29, 0.8);
+}
+
+.navbar{
+    background: var(--main-color);
+}
+body{
+    font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans","Liberation Sans",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji" !important;
+}
+.nav-item {
+    text-transform:uppercase
+}
