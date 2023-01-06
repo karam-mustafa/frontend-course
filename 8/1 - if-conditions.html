@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<script src="./vue.js"></script>
+<body>
+
+<div id="app">
+    <h1>{{message}}</h1>
+    <h1 v-if="seen">Now you see me</h1>
+    <h1 v-else>You can't see me </h1>
+</div>
+
+<script>
+    let vueObject = new Vue({
+        el: '#app',
+        data: {
+            seen: 1 != 1,
+            message: "hello world"
+        }
+    })
+</script>
+
+</body>
+</html>

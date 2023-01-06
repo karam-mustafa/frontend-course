@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<script src="vue.js"></script>
+<body>
+
+<div id = "app">
+    <h1>Firstname : {{firstname}}</h1>
+    <h1>Lastname : {{lastname}}</h1>
+    <div v-html="htmlcontent"></div>
+</div>
+
+<script>
+   new Vue({
+        el: '#app',
+        data: {
+            firstname : "Albert",
+            lastname : "Pinto",
+            htmlcontent : "<h1>This is Vue.js Template Example</h1>"
+        }
+    })
+</script>
+
+</body>
+</html>

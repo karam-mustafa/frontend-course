@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<script src="vue.js"></script>
+<body>
+
+    <div id="app">
+        <ul>
+            <li v-for="(item, index) in todos">
+                <span v-if="isIncludeH(item)">
+                    {{index}} - {{ item.text }}
+                </span>
+                <span v-else> 
+                    Not include (h)
+                </span>
+            </li>
+        </ul>
+    </div>
+<script>
+    var app4 = new Vue({
+        el: '#app',
+        data: {
+            todos: [
+                { text: 'CSS Tutorial' },
+                { text: 'JavaScript Tutorial' },
+                { text: 'HTML Tutorial' },
+                { text: 'AngularJS Tutorial' },
+                { text: 'Vue.js Tutorial' }
+            ]
+        },
+        methods: {
+            isIncludeH(item){
+                let itemAsArray = item.text.split('');
+                return itemAsArray.includes('H')
+            }
+        },
+    })
+</script>
+
+</body>
+</html>

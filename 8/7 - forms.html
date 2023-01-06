@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<script src="vue.js"></script>
+
+<body>
+
+    <div id="databinding">
+        <h3> First number</h3>
+        <input type="number" v-model="number1">
+        <hr>
+        <h3> second name</h3>
+        <input type="number" v-model="number2">
+        <hr>
+        <h3> operator</h3>
+        <select v-model="operator" v-on:change="calcuate">
+            <option value="+">+</option>
+            <option value="-">-</option>
+            <option value="/">/</option>
+            <option value="*">*</option>
+        </select>
+        <h3>result: <span>{{result}}</span></h3>
+    </div>
+    <script>
+        let vueObject = new Vue({
+            el: '#databinding',
+            data: {
+                number1: 0,
+                number2: 0,
+                operator: '',
+                result: 0,
+            },
+           methods: {
+            calcuate(){
+                this.result = eval(this.number1 + this.operator + this.number2);
+            }
+           },
+        })
+    </script>
+
+</body>
+
+</html>

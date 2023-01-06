@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<script src="vue.js"></script>
+<body>
+
+<div id="databinding">
+    <div v-bind:style="styleObj" 
+    v-on:mouseover="changeColorToBlue" 
+    v-on:mouseout="changeColorToGray"
+    >test</div>
+</div>
+<script>
+    let vueObject = new Vue({
+        el: '#databinding',
+        data: {
+            num1: 100,
+            num2 : 200,
+            total : '',
+            styleObj : {
+                width:"100px",
+                height:"100px",
+                backgroundColor:"red",
+                color: "white",
+            }
+        },
+        methods: {
+            changeColorToBlue(){
+                this.styleObj.backgroundColor = 'blue';
+            },
+            changeColorToGray(){
+                this.styleObj.backgroundColor = 'red'
+            }
+        },
+        
+    })
+</script>
+
+</body>
+</html>
